@@ -268,3 +268,6 @@ Output:
 The proposed system enables continuous, low-cost diabetic foot monitoring capable of detecting early signs of ulcer formation before severe tissue damage occurs.
 
 By combining wearable sensing, Edge AI, and real-time visualization, PodoCare AI aims to reduce unnecessary hospital visits, improve patient outcomes, and support preventive healthcare.
+
+Team lead - PODOCARE AI
+Jerlin JEBA M J  - mjjerlin@gmail.com
