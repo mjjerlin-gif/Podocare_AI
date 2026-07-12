@@ -126,9 +126,7 @@ The processed information is forwarded to a local PC dashboard for visualization
 
 ## Dashboard
 
-- HTML
-- CSS
-- JavaScript
+- Streamlit
 - Chart.js
 
 ---
